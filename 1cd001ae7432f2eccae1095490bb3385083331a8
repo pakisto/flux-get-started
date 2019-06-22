@@ -1,0 +1,1 @@
+{"jobID":"f3308a59-7ffa-48f3-74f8-18651a80831f","spec":{"type":"policy","cause":{"Message":"","User":"Changyu Seon (선찬규) \u003cchangyu.seon@bespinglobal.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
